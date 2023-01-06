@@ -1,4 +1,4 @@
-# Guess-the-number
+# Desktop notifier
 Guess the number game. Made in python.
 
 This project is a Desktop Notifier made through plyer, you may change the reminder as per your wish, i have made it for drinking water as default if u wanna change it
